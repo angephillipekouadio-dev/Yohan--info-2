@@ -1,5 +1,3 @@
-# Yohan--info-2
-Un site d'information 
 <!DOCTYPE html>
 <html lang="fr">
 <head>
